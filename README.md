@@ -35,7 +35,7 @@ We need to tell ts-jest to use ttypescript that allow us to use a transformer.
        ...
        "globals": {
           "ts-jest": {
-            "compiler": "ttypescript"
+            "compiler": "typescript"
           }
         }
     ```
